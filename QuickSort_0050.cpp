@@ -77,5 +77,7 @@ void q_short(int low, int high)
 		}
 	}
 
-		
+	if (low < j) { //step 11
+
+	}
 }
