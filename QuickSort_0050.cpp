@@ -119,5 +119,6 @@ int main()
 			break;
 
 		system("pause");
+		system("cls";)
 	}
 }
