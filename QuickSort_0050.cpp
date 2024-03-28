@@ -29,3 +29,9 @@ void input() {
 		cin >> arr[i];
 	}
 }
+//swaps the element at index x with the element at index y
+void swap(int x, int y)
+{
+	int temp = arr[x];
+
+}
